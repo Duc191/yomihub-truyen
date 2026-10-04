@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Duc191 Truyện",
+    "id": 191000001,
+    "baseUrl": "https://example.com",
+    "lang": "vi",
+    "typeSource": "single",
+    "iconUrl": "",
+    "dateFormat": "",
+    "dateFormatLocale": "",
+    "isNsfw": false,
+    "hasCloudflare": false,
+    "sourceCodeUrl": "https://raw.githubusercontent.com/Duc191/yomihub-truyen/main/javascript/truyen.js",
+    "apiUrl": "",
+    "version": "1.0.0",
+    "isManga": true,
+    "itemType": 0,
+    "isFullData": false,
+    "appMinVerReq": "0.5.0",
+    "additionalParams": "",
+    "sourceCodeLanguage": 1,
+    "notes": ""
+  }
+]
